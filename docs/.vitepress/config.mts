@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'Data Platform',
   description: 'Documentation for the Data Platform',
+  base: '/DataPlatform/',
   cleanUrls: true,
   themeConfig: {
     nav: [

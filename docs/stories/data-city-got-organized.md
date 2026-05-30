@@ -102,7 +102,7 @@ The townspeople called them:
 
 ![The magical Data Factory organizing information into trusted shelves](./data-city-gets-organized/4.png)
 
-## The Red Panda Railway
+## The Red Pandas Express
 
 One day the town became very busy.
 
@@ -112,7 +112,7 @@ The school needed notifications instantly.
 
 The power company wanted alerts in real time.
 
-So the Builders created the Red Panda Railway.
+So the Builders created the Red Pandas Express.
 
 Whenever something important happened:
 
@@ -121,7 +121,7 @@ Whenever something important happened:
 - a road closed
 - a storm warning appeared
 
-...the railway carried little event packages all across town.
+...the express carried little event packages all across town.
 
 No department had to shout anymore.
 
@@ -131,7 +131,7 @@ The town became calmer.
 
 Well. Slightly calmer. Humans were still involved.
 
-![The Red Panda Railway carrying event packages across Data City](./data-city-gets-organized/5.png)
+![The Red Pandas Express carrying event packages across Data City](./data-city-gets-organized/5.png)
 
 ## The Hall of Maps and Meanings
 
@@ -194,8 +194,6 @@ Instead of discovering problems three months later during a board meeting, the t
 
 This was considered revolutionary.
 
-![The Watchtower watching over Data City's data systems](./data-city-gets-organized/8.png)
-
 And Data City learned an important lesson:
 
 Data is not valuable because it exists.
@@ -205,3 +203,24 @@ Data becomes valuable when people can trust it, understand it, and use it togeth
 And the exhausted printer at town hall finally got to rest.
 
 The end.
+
+![The Watchtower watching over Data City's data systems](./data-city-gets-organized/8.png)
+
+## The Data City Journey
+
+Before everyone went home, the Builders drew a map of the whole journey.
+
+It helped the town remember how all the pieces worked together.
+
+
+
+![The Data City journey from sources to the Watchtower](./data-city-gets-organized/9.png)
+
+## How The Data City Works And Who Helps
+
+Then they made one more chart for anyone who wanted to see what happened behind the scenes.
+
+It showed who helped, where data lived, how messages moved, and how the town kept everything running.
+
+![How Data City works and who helps each part of the platform](./data-city-gets-organized/10.png)
+
