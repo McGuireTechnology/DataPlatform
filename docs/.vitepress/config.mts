@@ -27,7 +27,9 @@ export default defineConfig({
         text: 'Stories',
         items: [
           { text: "Children's Stories", link: '/stories/' },
-          { text: 'The Day Data City Got Organized', link: '/stories/data-city-got-organized' }
+          { text: 'The Day Data City Got Organized', link: '/stories/data-city-got-organized' },
+          { text: 'The Many Jobs of Data City', link: '/stories/many-jobs-of-data-city' },
+          { text: 'Data City Story Ideas', link: '/stories/data-city-story-ideas' }
         ]
       }
     ],
