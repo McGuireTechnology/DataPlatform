@@ -224,3 +224,22 @@ It showed who helped, where data lived, how messages moved, and how the town kep
 
 ![How Data City works and who helps each part of the platform](./data-city-gets-organized/10.png)
 
+## The Builder's Blueprint
+
+For the people who wanted even more detail, the Builders kept a blueprint in the town hall archives.
+
+It named the actual tools and services that helped Data City run:
+
+- source systems, files, manual inputs, events, and external data
+- orchestrators and workers that planned and moved the work
+- Redpanda messages for real-time event streaming
+- storage, backups, catalogs, policies, search, and secrets
+- dashboards, portals, APIs, documentation, automation, and alerts
+
+The townspeople did not need to memorize every box on the blueprint.
+
+But the Builders liked having it nearby.
+
+Because when something changed, broke, grew, or needed explaining, the blueprint helped everyone see where that piece belonged.
+
+![The detailed Data City platform blueprint showing tools, services, and helpers](./data-city-gets-organized/11.png)
